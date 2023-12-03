@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#idea
+.idea/
+
 #temp files
 temp.py
